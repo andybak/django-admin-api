@@ -11,7 +11,6 @@ setup(
     url="",
     packages=find_packages(),
     install_requires=[
-        "Django<1.7",
         "djangorestframework",
         "Pillow<3.0.0",
     ],
